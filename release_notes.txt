@@ -1,1 +1,1 @@
-Added custom login and logout views, created the dashboard view, changed the all password views
+Added user registration and user profiles, added a link to registration in the login template. Fixed a bug in title of base.html.
