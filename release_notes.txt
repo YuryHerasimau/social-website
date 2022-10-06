@@ -1,1 +1,1 @@
-Extended the user model: created Pofile model, added an ability to edit user profile 
+Connected the messages framework that allows to display one-time notifications
