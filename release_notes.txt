@@ -1,1 +1,1 @@
-Added user registration and user profiles, added a link to registration in the login template. Fixed a bug in title of base.html.
+Extended the user model: created Pofile model, added an ability to edit user profile 
