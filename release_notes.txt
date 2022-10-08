@@ -1,1 +1,2 @@
-Connected the messages framework that allows to display one-time notifications
+Added auth backend for login via email/username and social auth backends.
+Hid all secret keys
