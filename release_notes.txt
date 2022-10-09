@@ -1,2 +1,1 @@
-Added auth backend for login via email/username and social auth backends.
-Hid all secret keys
+Added the image model. Created a bookmarklet with jQuery
