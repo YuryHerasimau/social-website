@@ -1,1 +1,1 @@
-Added the image model. Created a bookmarklet with jQuery
+Added connection with postgreSQL database in Heroku manually (for testing purposes)
